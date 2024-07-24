@@ -1,9 +1,9 @@
 <h1 align="center">Hi Fellas 👋, Mirza's here!</h1>
 <h3 align="center">Beginner Web & Mobile Developer</h3>
 
-- 🔭 I’m currently working on [JKT48 Mobile](https://github.com/Aailmz/JKT48_Mobile.git)
+- 🔭 Currently working on [JKT48 Mobile](https://github.com/Aailmz/JKT48_Mobile.git)
 
-- 🌱 I’m currently learning **VueJS and React Native.**
+- 🌱 Currently learning **VueJS and React Native.**
 
 - 👨‍💻 My projects preview are available at my instagram [@mirzazubar.id](@mirzazubar.id)
 
