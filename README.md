@@ -1,7 +1,7 @@
 <h1 align="center">Hi Fellas 👋, Mirza's here!</h1>
 <h3 align="center">Beginner Web & Mobile Developer</h3>
 
-- 🔭 Currently working on [JKT48 Mobile](https://github.com/Aailmz/JKT48_Mobile.git)
+- 🔭 Currently working on [Cashier](https://github.com/Aailmz/Cashier.git)
 
 - 🌱 Currently learning **VueJS and React Native.**
 
