@@ -1,5 +1,5 @@
 <h1 align="center">Hi Fellas 👋, Mirza's here!</h1>
-<h3 align="center">Web & Mobile Developer</h3>
+<h3 align="center">Desktop, Web & Mobile Developer</h3>
 
 - 🔭 Currently working on [Cashier](https://github.com/Aailmz/Cashier.git)
 
