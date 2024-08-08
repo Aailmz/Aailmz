@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on [Cashier](https://github.com/Aailmz/Cashier.git) and [JKT48 Web Scrapping](https://github.com/Aailmz/JKT48_Website-Scrapping.git)
 
-- 🌱 Currently learning **VueJS and React Native.**
+- 🌱 Currently learning **Express Js and React Native**
 
 - 👨‍💻 My projects preview are available at my instagram [@mirzazubar.id](@mirzazubar.id)
 
