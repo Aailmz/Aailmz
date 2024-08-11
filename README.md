@@ -1,7 +1,7 @@
 <h1 align="center">Hi Fellas 👋, Mirza's here!</h1>
 <h3 align="center">Desktop, Web & Mobile Developer</h3>
 
-- 🔭 Currently working on [Cashier](https://github.com/Aailmz/Cashier.git) and [JKT48 API](https://github.com/Aailmz/JKT48-API.git)
+- 🔭 Currently working on [Cashier](https://github.com/Aailmz/Cashier.git), [JKT48 API](https://github.com/Aailmz/JKT48-API.git) and [Your GitHub](https://github.com/Aailmz/Your-GitHub.git)
 
 - 🌱 Currently learning **Express Js and React Native**
 
