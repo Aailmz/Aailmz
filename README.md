@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on [Cashier](https://github.com/Aailmz/Cashier.git), [JKT48 API](https://github.com/Aailmz/JKT48-API.git) and [Your GitHub](https://github.com/Aailmz/Your-GitHub.git)
 
-- 🌱 I also currently learning **Express Js and React Native**
+- 🌱 I also currently learning **Express.Js and React Native**
 
 - 👨‍💻 My projects preview are available at my instagram [@mirzazubar.id](@mirzazubar.id)
 
