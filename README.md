@@ -3,10 +3,6 @@
 
 - 🔭 I'm currently working on [JKT48 API](https://github.com/Aailmz/JKT48-API.git)
 
-- 🌱 I also currently learning **Express.Js and React Native**
-
-- 👨‍💻 My projects preview are available at my instagram [@mirzazubar.id](@mirzazubar.id)
-
 - 📫 Reach me at **mirzazubaridjunaid@gmail.com**
 
 <h3 align="left">Connect with me here!</h3>
