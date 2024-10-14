@@ -1,7 +1,7 @@
 <h1 align="center">Hi Fellas 👋, Mirza's here!</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🔭 I'm currently working on [JKT48 API](https://github.com/Aailmz/JKT48-API.git)
+- 🔭 I'm currently working on [JKT48 API](https://github.com/Aailmz/JKT48-API.git) and [Caesar Cipher](https://github.com/Aailmz/Caesar-Cipher.git)
 
 - 📫 Reach me at **mirzazubaridjunaid@gmail.com**
 
