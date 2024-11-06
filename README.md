@@ -5,9 +5,6 @@
 
 - 📫 Reach me at **mirzazubaridjunaid@gmail.com**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aailmz&show_icons=true&locale=en&layout=compact" alt="aailmz" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aailmz&" alt="aailmz" /></p>
 
 
