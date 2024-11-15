@@ -1,5 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<picture> <img align="right" src="https://media1.tenor.com/m/N7Q24TzsXnwAAAAd/merry-christmas.gif" width = 1000px></picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi Fellas 👋, Mirza's here!</h1></summary>
@@ -7,7 +11,7 @@
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-
+<picture> <img align="right" src="https://media1.tenor.com/m/I9ZKdi0J3twAAAAd/doo-doo-doo.gif" width = 200px></picture>
 <picture> <img align="right" src="https://www.icegif.com/wp-content/uploads/2024/06/mewing-icegif-2.gif" width = 200px></picture>
 
 - 🔭 I'm currently working on [JKT48 API](https://github.com/Aailmz/JKT48-API.git) and [Caesar Cipher](https://github.com/Aailmz/Caesar-Cipher.git)
