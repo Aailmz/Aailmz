@@ -12,7 +12,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <picture> <img align="right" src="https://media1.tenor.com/m/I9ZKdi0J3twAAAAd/doo-doo-doo.gif" width = 200px></picture>
-<picture> <img align="right" src="https://www.icegif.com/wp-content/uploads/2024/06/mewing-icegif-2.gif" width = 200px></picture>
+<picture> <img align="right" src="https://www.icegif.com/wp-content/uploads/2024/06/mewing-icegif-2.gif" width = 185px></picture>
 
 - 🔭 I'm currently working on [JKT48 API](https://github.com/Aailmz/JKT48-API.git) and [Caesar Cipher](https://github.com/Aailmz/Caesar-Cipher.git)
 
