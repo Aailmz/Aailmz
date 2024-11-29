@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<picture> <img align="right" src="https://media1.tenor.com/m/N7Q24TzsXnwAAAAd/merry-christmas.gif" width = 1000px></picture>
+<div align="center">
+  <img src="https://media1.tenor.com/m/N7Q24TzsXnwAAAAd/merry-christmas.gif" width="500px">
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
