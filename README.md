@@ -38,11 +38,13 @@ Berikut adalah versi yang lebih menarik dan berwarna untuk representasi keteramp
 - ✨ **JavaScript**  
 - 🔷 **C#**  
 - 🚀 **Go**  
+- 🎯 **Dart**  
 
-### ⚙️ **Frameworks**  
+### ⚙️ **Frameworks & Tools**  
 - 🎯 **Laravel**  
 - 🌐 **.NET**  
 - ⚡ **Express.js**  
+- 🖌️ **Flutter**  
 
 ### ☁️ **Cloud Services**  
 - ☁️ **AWS**  
