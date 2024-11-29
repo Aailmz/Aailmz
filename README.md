@@ -11,8 +11,8 @@
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-<picture> <img align="right" src="https://media1.tenor.com/m/I9ZKdi0J3twAAAAd/doo-doo-doo.gif" width = 200px></picture>
-<picture> <img align="right" src="https://www.icegif.com/wp-content/uploads/2024/06/mewing-icegif-2.gif" width = 185px></picture>
+<picture> <img align="right" src="https://media1.tenor.com/m/I9ZKdi0J3twAAAAd/doo-doo-doo.gif" width = 100px></picture>
+<picture> <img align="right" src="https://www.icegif.com/wp-content/uploads/2024/06/mewing-icegif-2.gif" width = 94px></picture>
 
 - 📫 Reach me at **mirzazubaridjunaid@gmail.com**
   
@@ -21,10 +21,6 @@
 <a href="https://linkedin.com/in/mirza zubari djunaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirza zubari djunaid" height="30" width="40" /></a>
 <a href="https://instagram.com/mirzazubar.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirzazubar.id" height="30" width="40" /></a>
 </p>
-
-<br>
-<br>
-<br>
 
 ---
 
