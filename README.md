@@ -30,31 +30,26 @@ Berikut adalah versi yang lebih menarik dan berwarna untuk representasi keteramp
 
 ---
 
-## 🛠️ **My Skills**  
+## 🛠️ **My Skills**
 
-### 💻 **Programming Languages**  
-- 🐍 **Python**  
-- 🛠️ **PHP**  
-- ✨ **JavaScript**  
-- 🔷 **C#**  
-- 🚀 **Go**  
-- 🎯 **Dart**  
+### 💻 **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### ⚙️ **Frameworks & Tools**  
-- 🎯 **Laravel**  
-- 🌐 **.NET**  
-- ⚡ **Express.js**  
-- 🖌️ **Flutter**  
+### ⚙️ **Frameworks & Tools**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
-### ☁️ **Cloud Services**  
-- ☁️ **AWS**  
+### ☁️ **Cloud Services**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
 ---  
-
-Jika ada tambahan atau perubahan, beri tahu saya! 😊
-
-Feel free to customize the list further or let me know if you need any additional changes!
-
 
 <br>
 
