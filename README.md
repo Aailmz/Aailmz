@@ -30,7 +30,7 @@ Berikut adalah versi yang lebih menarik dan berwarna untuk representasi keteramp
 
 ---
 
-## 🌟 **My Skills**  
+## 🛠️ **My Skills**  
 
 ### 💻 **Programming Languages**  
 - 🐍 **Python**  
