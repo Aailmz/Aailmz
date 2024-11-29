@@ -24,10 +24,6 @@
 
 <br>
 
-Sure! Here’s a styled representation of your skills using text without images:
-
-Berikut adalah versi yang lebih menarik dan berwarna untuk representasi keterampilan Anda dalam teks:  
-
 ---
 
 ## 🛠️ **My Skills**
