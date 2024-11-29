@@ -24,25 +24,26 @@
 
 <br>
 
+Sure! Here’s a styled representation of your skills using text without images:
+
 ## 🛠️ My Skills
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> Python &nbsp;
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/> PHP &nbsp;
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> JavaScript &nbsp;
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/> C# &nbsp;
-  <img src="https://img.icons8.com/color/48/000000/go.png" alt="Go" width="40" height="40"/> Go
-</p>
+### Programming Languages
+- **Python**
+- **PHP**
+- **JavaScript**
+- **C#**
+- **Go**
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel" width="40" height="40"/> Laravel &nbsp;
-  <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET" width="40" height="40"/> .NET &nbsp;
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="40" height="40"/> Express.js
-</p>
+### Frameworks
+- **Laravel**
+- **.NET**
+- **Express.js**
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> AWS
-</p>
+### Cloud Services
+- **AWS**
+
+Feel free to customize the list further or let me know if you need any additional changes!
 
 
 <br>
