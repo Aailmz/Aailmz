@@ -26,22 +26,30 @@
 
 Sure! Here’s a styled representation of your skills using text without images:
 
-## 🛠️ My Skills
+Berikut adalah versi yang lebih menarik dan berwarna untuk representasi keterampilan Anda dalam teks:  
 
-### Programming Languages
-- **Python**
-- **PHP**
-- **JavaScript**
-- **C#**
-- **Go**
+---
 
-### Frameworks
-- **Laravel**
-- **.NET**
-- **Express.js**
+## 🌟 **My Skills**  
 
-### Cloud Services
-- **AWS**
+### 💻 **Programming Languages**  
+- 🐍 **Python**  
+- 🛠️ **PHP**  
+- ✨ **JavaScript**  
+- 🔷 **C#**  
+- 🚀 **Go**  
+
+### ⚙️ **Frameworks**  
+- 🎯 **Laravel**  
+- 🌐 **.NET**  
+- ⚡ **Express.js**  
+
+### ☁️ **Cloud Services**  
+- ☁️ **AWS**  
+
+---  
+
+Jika ada tambahan atau perubahan, beri tahu saya! 😊
 
 Feel free to customize the list further or let me know if you need any additional changes!
 
