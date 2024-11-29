@@ -26,6 +26,25 @@
 
 ## 🛠️ My Skills
 
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> Python &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/> PHP &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> JavaScript &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/> C# &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/go.png" alt="Go" width="40" height="40"/> Go
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel" width="40" height="40"/> Laravel &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET" width="40" height="40"/> .NET &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="40" height="40"/> Express.js
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> AWS
+</p>
+
+
 <br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
