@@ -1,11 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/N7Q24TzsXnwAAAAd/merry-christmas.gif" width="500px">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi Fellas 👋, Mirza's here!</h1></summary>
