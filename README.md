@@ -1,11 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXo0ZnFyOGZ6NnVzOTRjanhjczVmaDc1anFnazN5aWp3eWxoc2dpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KOkZCUCV47z4DxvnQE/giphy.gif" width="500px">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi Fellas 👋, Mirza's here!</h1></summary>
