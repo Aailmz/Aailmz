@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About
 <picture> <img align="right" src="https://media1.tenor.com/m/I9ZKdi0J3twAAAAd/doo-doo-doo.gif" width = 100px></picture>
 <picture> <img align="right" src="https://www.icegif.com/wp-content/uploads/2024/06/mewing-icegif-2.gif" width = 94px></picture>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ **My Skills**
+## 🛠️ **Skills**
 
 ### 💻 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
