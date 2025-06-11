@@ -50,6 +50,7 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+    <img src="https://img.shields.io/badge/Kotlin-02569B?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   </a>
 </p>
 </details>
