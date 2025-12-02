@@ -6,7 +6,7 @@
 
 <br>
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> About Me
+## About Me
 
 <img align="right" src="https://media1.tenor.com/m/I9ZKdi0J3twAAAAd/doo-doo-doo.gif" width="180px">
 <img align="right" src="https://www.icegif.com/wp-content/uploads/2024/06/mewing-icegif-2.gif" width="150px">
